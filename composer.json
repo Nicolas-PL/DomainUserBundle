@@ -17,6 +17,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
+        "php": "^8.4",
         "m6web/firewall-bundle": "^3.0.0"
     },
     "require-dev": {
